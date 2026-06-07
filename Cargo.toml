@@ -1,0 +1,9 @@
+[package]
+name = "rate-distortion"
+version = "0.1.0"
+edition = "2021"
+description = "Rate-distortion theory: R(D) function calculation, distortion measures, Blahut-Arimoto algorithm, and Lloyd-Max quantizer design"
+license = "MIT"
+repository = "https://github.com/SuperInstance/rate-distortion"
+keywords = ["rate-distortion", "quantization", "blahut-arimoto", "information-theory", "lloyd-max"]
+categories = ["algorithms", "science", "mathematics"]
